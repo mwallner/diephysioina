@@ -1,26 +1,4 @@
-<feed xmlns="http://www.w3.org/2005/Atom">
-  
-    <title>Die Physio Ina</title>
-  
-  <link href="http://localhost:1313/index.xml" rel="self"/>
-  <link href="http://localhost:1313/"/>
-  <updated>22-10-2026T00:00:00+00:00</updated>
-  <id>http://localhost:1313/</id>
-  <author>
-    <name>Ina Sawatzky</name>
-    <email>ina.sawatzky.physio@gmail.com</email>
-  </author>
-  <generator>Hugo -- gohugo.io</generator>
-  <entry>
-    <title type="html"><![CDATA[Carina Wallner]]></title>
-    <link href="http://localhost:1313/team/carina/"/>
-    <id>http://localhost:1313/team/carina/</id>
-    <author>
-      <name>Ina Sawatzky</name>
-    </author>
-    <published>2023-10-24T00:00:00+00:00</published>
-    <updated>2023-10-24T00:00:00+00:00</updated>
-    <content type="html"><![CDATA[<h2 id="schwerpunkte">Schwerpunkte</h2>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Die Physio Ina</title><link href="http://www.diephysioina.at/index.xml" rel="self"/><link href="http://www.diephysioina.at/"/><updated>22-10-2026T00:00:00+00:00</updated><id>http://www.diephysioina.at/</id><author><name>Ina Sawatzky</name><email>ina.sawatzky.physio@gmail.com</email></author><generator>Hugo -- gohugo.io</generator><entry><title type="html">Carina Wallner</title><link href="http://www.diephysioina.at/team/carina/"/><id>http://www.diephysioina.at/team/carina/</id><author><name>Ina Sawatzky</name></author><published>2023-10-24T00:00:00+00:00</published><updated>2023-10-24T00:00:00+00:00</updated><content type="html"><![CDATA[<h2 id="schwerpunkte">Schwerpunkte</h2>
 <ul>
 <li>Pädiatrie
 <ul>
@@ -40,18 +18,7 @@
 <li>Dreidimensionale Fußtherapie nach Zukunft-Huber</li>
 <li>Cranio-Sacraltherapie</li>
 </ul>
-]]></content>
-  </entry>
-  <entry>
-    <title type="html"><![CDATA[Ina Sawatzky]]></title>
-    <link href="http://localhost:1313/team/ina/"/>
-    <id>http://localhost:1313/team/ina/</id>
-    <author>
-      <name>Ina Sawatzky</name>
-    </author>
-    <published>2023-10-24T00:00:00+00:00</published>
-    <updated>2023-10-24T00:00:00+00:00</updated>
-    <content type="html"><![CDATA[<h2 id="schwerpunkte">Schwerpunkte</h2>
+]]></content></entry><entry><title type="html">Ina Sawatzky</title><link href="http://www.diephysioina.at/team/ina/"/><id>http://www.diephysioina.at/team/ina/</id><author><name>Ina Sawatzky</name></author><published>2023-10-24T00:00:00+00:00</published><updated>2023-10-24T00:00:00+00:00</updated><content type="html"><![CDATA[<h2 id="schwerpunkte">Schwerpunkte</h2>
 <ul>
 <li>Neurologie</li>
 <li>Orthopädie</li>
@@ -71,6 +38,4 @@
 <li>Sympathikus-Therapie mit Mikropressur</li>
 <li>Medi-Tapes</li>
 </ul>
-]]></content>
-  </entry>
-</feed>
+]]></content></entry></feed>
